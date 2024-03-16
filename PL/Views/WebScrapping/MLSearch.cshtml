@@ -1,0 +1,37 @@
+﻿@model ML.Producto
+
+@{
+    ViewBag.Title = "MLSearch";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+
+<h1> LISTADO DE PRODUCTOS </h1>
+
+
+<div class="table-responsive">
+    <table class="table align-middle table table-striped table-bordered" id="tabla">
+        <thead>
+            <tr>
+                <th scope="col"> </th>
+                <th scope="col"> </th>
+                <th scope="col">Nombre</th>
+                <th scope="col">Descripcion</th>
+                <th scope="col">Costo</th>
+
+            </tr>
+        </thead>
+        <tbody>
+          @*  @foreach (var productElement in productElements)
+            {
+                <tr>
+
+                    <td> @product.Nombre </td>
+                    <td> @product.Descripcion </td>
+                    <td> @product.Costo </td>
+ 
+                </tr>
+            }*@
+        </tbody>
+    </table>
+</div>
