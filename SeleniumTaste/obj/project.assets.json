@@ -97,11 +97,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\digis\\Documents\\Christian Otero Garcia\\COteroWebScrapping\\SeleniumTaste\\SeleniumTaste.csproj",
+      "projectUniqueName": "C:\\Users\\digis\\Documents\\Christian Otero Garcia\\COteroWebScrappingGIT\\COteroWebScrapping\\SeleniumTaste\\SeleniumTaste.csproj",
       "projectName": "SeleniumTaste",
-      "projectPath": "C:\\Users\\digis\\Documents\\Christian Otero Garcia\\COteroWebScrapping\\SeleniumTaste\\SeleniumTaste.csproj",
+      "projectPath": "C:\\Users\\digis\\Documents\\Christian Otero Garcia\\COteroWebScrappingGIT\\COteroWebScrapping\\SeleniumTaste\\SeleniumTaste.csproj",
       "packagesPath": "C:\\Users\\digis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\digis\\Documents\\Christian Otero Garcia\\COteroWebScrapping\\SeleniumTaste\\obj\\",
+      "outputPath": "C:\\Users\\digis\\Documents\\Christian Otero Garcia\\COteroWebScrappingGIT\\COteroWebScrapping\\SeleniumTaste\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

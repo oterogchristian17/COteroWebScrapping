@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "svicQyuWAjbITKyA/AitmuBQwIzpEQzM0hCdGWGmI3SyQJt5WheP/LmWrbdNk8MdNk9q0c9mLkYqY2xighBHRg==",
+  "dgSpecHash": "l59/kUyLjQJ9SIypeVEoimjhBTXVoIAFWLDgmpaAOgE7L3+j2DEhffvbbU+DgrM453+Thj933WQ2fgXL5z0IMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\digis\\Documents\\Christian Otero Garcia\\COteroWebScrapping\\PL\\PL.csproj",
+  "projectFilePath": "C:\\Users\\digis\\Documents\\Christian Otero Garcia\\COteroWebScrappingGIT\\COteroWebScrapping\\PL\\PL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\digis\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\digis\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
