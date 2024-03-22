@@ -22,16 +22,17 @@
             </tr>
         </thead>
         <tbody>
-          @*  @foreach (var productElement in productElements)
+
+            @foreach (ML.Producto producto in Model.Productos)
             {
                 <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> @producto.Descripcion </td>
+          
 
-                    <td> @product.Nombre </td>
-                    <td> @product.Descripcion </td>
-                    <td> @product.Costo </td>
- 
                 </tr>
-            }*@
+            }
         </tbody>
     </table>
 </div>

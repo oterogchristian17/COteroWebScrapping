@@ -12,6 +12,7 @@ namespace ML
         public string? Descripcion { get; set; }
         public string? Costo { get; set; }
 
-        public List<Producto> Productos { get;}
+        public List<Producto> Productos { get; set; }
+
     }
 }
