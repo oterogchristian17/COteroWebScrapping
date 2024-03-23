@@ -23,13 +23,11 @@
         </thead>
         <tbody>
 
-            @foreach (ML.Producto producto in Model.Productos)
+            @foreach (ML.Producto producto in Model.lista)
             {
                 <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td> @producto.Descripcion </td>
-          
+                 @*
+                    <td> @producto.Descripcion </td>*@
 
                 </tr>
             }
